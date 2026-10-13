@@ -205,8 +205,6 @@ CALL EmployeeSalaryGrade(101);
 -- Bonus Task: Department Summary
 CALL GetDepartmentSummary('HR');
 
--- Test invalid department
-CALL GetDepartmentSummary('Legal');
 ```
 
 ## Key Learning Outcomes
